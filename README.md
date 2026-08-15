@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:128807&height=200&section=header&text=80%20Years%20of%20Freedom&fontSize=42&fontColor=0B1F6B&animation=fadeIn&fontAlignY=38&desc=A%20Liquid%20Glass%20Tribute%20to%20India&descAlignY=58&descSize=18" />
 
-[![View Live](https://img.shields.io/badge/View-Live%20Demo-FFD54A?style=for-the-badge&logo=vercel&logoColor=black)]("https://k4hav.github.io/Independence/")
+[![View Live](https://k4hav.github.io/Independence/)](#)
 [![Made with HTML CSS JS](https://img.shields.io/badge/Made%20with-HTML%20%7C%20CSS%20%7C%20JS-FF9933?style=for-the-badge)](#)
 [![No Dependencies](https://img.shields.io/badge/Dependencies-Zero-128807?style=for-the-badge)](#)
 
