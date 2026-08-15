@@ -50,7 +50,7 @@ No frameworks, no build step, no image assets — every visual is CSS, SVG, and 
 No build tools needed — it's a static page.
 
 ```bash
-git clone https://github.com/k4hav/<repo-name>.git
+git clone https://github.com/k4hav/Independence.git
 cd Independence
 
 ```
