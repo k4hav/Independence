@@ -71,7 +71,7 @@ Create an `audio` folder next to `index.html` and drop in a file named `anthem.m
 - Flip cards respond to a single tap (not hover-then-tap)
 - Blur intensity and background blob count are reduced under 640px for smoother scrolling
 
-## 🙏 Credits
+## Credits
 
 Built by **[@k4hav](https://github.com/k4hav)**
 
